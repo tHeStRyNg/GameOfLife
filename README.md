@@ -117,6 +117,26 @@ Here are the calculations:
 
 **Grand Total**: $38,300 - $72,700
 
+Based on the table:
+
+| Phases | Estimate Time |
+|--------|---------------|
+| Planning | 7-10 days |
+| Game Development | 40-50 days |
+| Testing | 14-18 days |
+| Documentation and Tutorials | 5-7 days |
+| Final Polish and Deployment | 5 days |
+
+Let's calculate the total time:
+
+* Planning Phase: (7 + 10) / 2 = 8.5 days
+* Game Development Phase: (40 + 50) / 2 = 45 days
+* Testing Phase: (14 + 18) / 2 = 16 days
+* Documentation and Tutorials Phase: (5 + 7) / 2 = 6 days
+* Final Polish and Deployment Phase: 5 days
+
+**Total Time**: 8.5 + 45 + 16 + 6 + 5 = **80** days
+
 **Project Risks**
 ------------------
 
