@@ -13,8 +13,8 @@ The Game of Life is a simulation-based game that allows players to experience th
 
 **The Game of Life: A Simulation-Based Game Development Plan**
 
-**Estimated Development Time:** 71 days
-**Total Estimated Cost:** $38,500
+**Estimated Development Time:** 80 days
+**Total Estimated Cost:** $72,500
 
 **Project Phases**
 
