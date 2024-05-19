@@ -1,5 +1,6 @@
 # GameOfLife
 AI Generated Content for Testing abilities and calculations for IT Planning
+LLM used - Llama 3 Instruct 7B Q3_K_S
 
 **Game of Life Project README**
 
@@ -14,7 +15,7 @@ The Game of Life is a simulation-based game that allows players to experience th
 **The Game of Life: A Simulation-Based Game Development Plan**
 
 **Estimated Development Time:** 80 days
-**Total Estimated Cost:** $72,500
+**Total Estimated Cost:** $72,700
 
 **Project Phases**
 
