@@ -1,6 +1,6 @@
 # GameOfLife
-AI Generated Content for Testing abilities and calculations for IT Planning
-LLM used - Llama 3 Instruct 7B Q3_K_S
+* AI Generated Content for Testing abilities and calculations for IT Planning
+* LLM used - Llama 3 Instruct 7B Q3_K_S
 
 **Game of Life Project README**
 
