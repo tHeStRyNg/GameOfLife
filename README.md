@@ -1,5 +1,5 @@
 # GameOfLife
-AI Generated Content for testing purposes
+AI Generated Content for Testing abilities and calculations for IT Planning
 
 **Game of Life Project README**
 
