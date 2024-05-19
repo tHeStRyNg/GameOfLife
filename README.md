@@ -78,7 +78,7 @@ The Game of Life is a simulation-based game that allows players to experience th
 | Testing | 10 days | $5,000 - $8,000 |
 | Documentation and Tutorials | 3 days | $1,500 - $2,500 |
 | Final Polish and Deployment | 5 days | $2,500 - $4,000 |
-|------|--------------|---------------|
+
 
 **Total Estimated Time:** 33 days
 **Total Estimated Cost:** $21,500 - $38,000
